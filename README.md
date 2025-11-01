@@ -14,14 +14,14 @@ I made this mod to solve a really specific issue. If you use both "Universal Ore
 
 Each different ore type has a specific height at which they generate:
 
-Coal - 60 to 16
-Copper - 60 to -16
-Iron - 60 to -32
-Gold - 32 to -32
-Lapis - 16 to -48
-Redstone - 16 to -32
-Diamond - -16 to -64
-Emerald - -16 to -64
+- Coal - 60 to 16
+- Copper - 60 to -16
+- Iron - 60 to -32
+- Gold - 32 to -32
+- Lapis - 16 to -48
+- Redstone - 16 to -32
+- Diamond - -16 to -64
+- Emerald - -16 to -64
 
 In the Nether, gold nuggets and quartz generate in "blackstone" veins, which work exactly the same way. These can appear at any height, and also generate in the bedrock ceiling, allowing easier access to the nether roof (see gallery).
 
