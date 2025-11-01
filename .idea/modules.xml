@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/calcite-veins-1.20.1.iml" filepath="$PROJECT_DIR$/.idea/calcite-veins-1.20.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calcite-veins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calcite-veins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calcite-veins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calcite-veins.test.iml" />
     </modules>
   </component>
 </project>

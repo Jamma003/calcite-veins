@@ -3,7 +3,7 @@
 	"id": "calciteveins",
 	"version": "${version}",
 	"name": "Calcite Veins",
-	"description": "Adds huge calcite ore veins at various depths, to encourage chunk mining",
+	"description": "Adds huge calcite ore veins at various depths, to encourage chunk mining. Requires Orlouge's Custom Ore Veins and Hugman's Universal Ores.",
 	"authors": [
 		"Jamma003"
 	],
@@ -26,7 +26,8 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*",
-		"customoreveins": "*"
+		"customoreveins": "*",
+		"universal_ores": "*"
 	},
 	"suggests": {
 		"another-mod": "*"
