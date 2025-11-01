@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "calciteveins",
+	"version": "${version}",
+	"name": "Calcite Veins",
+	"description": "Adds huge calcite ore veins at various depths, to encourage chunk mining",
+	"authors": [
+		"Jamma003"
+	],
+	"license": "MIT",
+	"icon": "assets/calciteveins/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jamma003.calciteveins.CalciteVeins"
+		],
+		"fabric-datagen": [
+			"net.jamma003.calciteveins.CalciteVeinsDataGenerator"
+		]
+	},
+	"mixins": [
+		"calciteveins.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"customoreveins": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
