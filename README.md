@@ -38,4 +38,4 @@ This should be safe to uninstall at any time (as long as you keep universal ores
 ## Requirements
 
 https://modrinth.com/mod/universal_ores
-https://www.curseforge.com/minecraft/mc-mods/custom-ore-veins
+https://modrinth.com/mod/customoreveins
